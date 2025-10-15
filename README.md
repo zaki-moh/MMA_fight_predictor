@@ -1,1 +1,2 @@
 # MMA_fight_predictor
+Machine learning model to predict MMA fight outcomes using fighter statistics from Kaggle and UFCStats. Cleaned and normalized data with Pandas, engineered features such as strike and grapple efficiency, and trained a Random Forest model for probabilistic win predictions. Evaluated performance with accuracy metrics and visualized feature importance to interpret model behavior.
