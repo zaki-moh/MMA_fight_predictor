@@ -18,7 +18,7 @@ Allows comparison between two fighters with predicted probabilities.
 # 🧠 Model
 Algorithm: Random Forest (Supervised Learning)
 Frameworks: scikit-learn, pandas, numpy
-Evaluation: Accuracy score, classification report, feature importance visualization.
+Evaluation: Accuracy score
 
 # 🧩 Tech Stack
 Python
